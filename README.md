@@ -6,5 +6,5 @@
 
 
 
-执行步骤：1.cd myopenssl/jni目录，执行ndk-build NDK_PROJECT_PATH=../ APP_BUILD_SCRIPT=../Android.mk
-         2.cd rtmp/jni目录，执行ndk-build
+执行步骤：1.cd myopenssl/jni目录，执行ndk-build NDK_PROJECT_PATH=../ APP_BUILD_SCRIPT=../Android.mk<BR/><BR/>
+         2.cd rtmp/jni目录，执行ndk-build<BR/><BR/>
